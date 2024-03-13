@@ -1,0 +1,55 @@
+#navbar{
+    gap:5%;
+  display: flex;
+}
+
+#sideb{
+    display: flex;
+    gap: 5%;
+}
+.space{
+    justify-content: center;
+}
+#nav2{
+    display:flex;
+    gap: 4%;
+}
+#part4{
+    display: flex;
+    
+}
+#image2{
+    display: flex;
+    justify-content: center;
+    
+}
+#small{
+    display: flex;
+    gap: 5%;
+}
+#nav3{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+
+}
+.butt6{
+
+}
+.smalls{
+    width: 350px;
+    
+}
+
+#split1{
+    display: flex;
+    justify-content: center;
+}
+#split2{
+    display: flex;
+    justify-content: center;
+}
+.small{
+    width: 600px;
+    height: 500px;
+}
